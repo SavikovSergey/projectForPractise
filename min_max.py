@@ -1,0 +1,5 @@
+a = float(input("Enter a first number: "))
+b = float(input("Enter a second number: "))
+c = float(input("Enter a third number: "))
+print("Min: " ,min(a,b,c))
+print("Max: " ,max(a,b,c))
